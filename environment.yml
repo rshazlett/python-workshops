@@ -8,5 +8,4 @@ dependencies:
   - pandas
   - scipy
   - IPython
-  - os
   - ffmpeg
